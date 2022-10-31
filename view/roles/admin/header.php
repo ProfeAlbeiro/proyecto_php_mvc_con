@@ -151,10 +151,10 @@
 									<div class="card">
 										<ul class="list-group list-group-flush">
 											<li class="list-group-item p-0 bg-light">
-												<a href="4_mod_reports/reports_graf/reportes_graf.html" target="area_trabajo" class="card-link d-block p-2 px-lg-3 py-lg-1 ocul-aside">Reportes Gráficos</a>
+												<a href="" class="card-link d-block p-2 px-lg-3 py-lg-1 ocul-aside">Reportes Gráficos</a>
 											</li>
 											<li class="list-group-item p-0 bg-light">
-												<a href="4_mod_reports/reports_imp/reports_imp.html" target="area_trabajo" class="card-link d-block p-2 px-lg-3 py-lg-1 ocul-aside">Reportes Impresos</a>
+												<a href="?c=Reports" class="card-link d-block p-2 px-lg-3 py-lg-1 ocul-aside">Reportes Impresos</a>
 											</li>
 										</ul>
 									</div>

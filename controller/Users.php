@@ -9,7 +9,7 @@
 			$this->module = $_SESSION['module'];
 		}
 		public function index(){
-			if (isset($_SESSION['userDto']) && $userDto->getIdRol() != 2) {
+			if (isset($_SESSION['userDto'])) {
 				require_once 'view/roles/'.$this->module.'/header.php';
 				require_once 'view/modules/1_users/user.create.view.php';
 				require_once 'view/roles/'.$this->module.'/footer.php';
