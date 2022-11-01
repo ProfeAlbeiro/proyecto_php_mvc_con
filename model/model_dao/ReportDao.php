@@ -1,6 +1,6 @@
 <?php 
 
-	class Report {
+	class ReportDao {
 
 		private $pdo;
 

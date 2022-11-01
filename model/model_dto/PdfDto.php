@@ -1,7 +1,7 @@
 <?php
-    require_once 'Fpdf.php';
+    require_once 'FPDF.php';
 
-    class PDF extends FPDF {
+    class PdfDto extends FPDF {
         
         // Cabecera de página
         function Header() {

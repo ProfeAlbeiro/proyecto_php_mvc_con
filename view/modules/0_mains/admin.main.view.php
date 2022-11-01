@@ -69,7 +69,7 @@
 				<div class="card-body">							
 					<ul class="list-group list-group-flush">
 					  <li class="list-group-item"><a href="../4_mod_reports/reports_graf/reportes_graf.html" class="card-link">Reportes Gráficos</a></li>
-					  <li class="list-group-item"><a href="../4_mod_reports/reports_imp/reports_imp.html" class="card-link">Reportes Impresos</a></li>							  
+					  <li class="list-group-item"><a href="?c=Reports" class="card-link">Reportes Impresos</a></li>							  
 					</ul>
 				</div>
 			</div>
